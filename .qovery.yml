@@ -1,0 +1,11 @@
+---
+application:
+  name: "daisyxmusic"
+  project: "TELEGRAM-OP"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-daisyxmusic"
+  routes:
+  - application_name: "daisyxmusic"
+    paths:
+    - "/*"
